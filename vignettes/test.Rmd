@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 library(smart.microrand)
 
 set.seed(365342)
-sim_list <- sim_4t_microrand(N = 100, capacity = 5)
+# sim_list <- sim_4t_microrand(N = 100, capacity = 5)
 
 # N = c(50, 100)
 # B = 2
