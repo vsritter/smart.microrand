@@ -1,12 +1,12 @@
 <urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
-<url><loc>/404.html</loc></url>
-<url><loc>/articles/index.html</loc></url>
-<url><loc>/articles/test.html</loc></url>
-<url><loc>/authors.html</loc></url>
-<url><loc>/index.html</loc></url>
-<url><loc>/reference/index.html</loc></url>
-<url><loc>/reference/pipe.html</loc></url>
-<url><loc>/reference/sim_4t_microrand.html</loc></url>
-<url><loc>/reference/skip.seed.streams.html</loc></url>
+<url><loc>https://vsritter.github.io/smart.microrand/404.html</loc></url>
+<url><loc>https://vsritter.github.io/smart.microrand/articles/index.html</loc></url>
+<url><loc>https://vsritter.github.io/smart.microrand/articles/test.html</loc></url>
+<url><loc>https://vsritter.github.io/smart.microrand/authors.html</loc></url>
+<url><loc>https://vsritter.github.io/smart.microrand/index.html</loc></url>
+<url><loc>https://vsritter.github.io/smart.microrand/reference/index.html</loc></url>
+<url><loc>https://vsritter.github.io/smart.microrand/reference/pipe.html</loc></url>
+<url><loc>https://vsritter.github.io/smart.microrand/reference/sim_4t_microrand.html</loc></url>
+<url><loc>https://vsritter.github.io/smart.microrand/reference/skip.seed.streams.html</loc></url>
 </urlset>
 
